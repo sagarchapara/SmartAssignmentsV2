@@ -1,0 +1,88 @@
+[Accessibility] While converting Project into PDF using 'Save As PDF' and 'Export As PDF' options, no tags are generated
+Edit assignment contour hit e_fail with very small number of works
+Remove ChangeGate: microsoft.office.project.changegate.supportconversationtoo365user
+Change logging telemetry as tagged failed to run last month for few weeks
+CloudProj Crash in Prod during   replay request for undo operation
+CloudProj Crash in Prod during logging for POST /project/links
+ 
+Add accessibility tags in Detail Gantt
+Add accessibility tags in Gantt with Timeline view
+Add accessibility tags in Leveling Gantt view
+Add accessibility tags in Multiple Baselines Gantt view
+Add accessibility tags in Bar Rollup view
+Add accessibility tags in Milestone Date Rollup
+Add accessibility tags in Milestone Rollup
+Add accessibility tags in Task Entry view
+Add accessibility tags in Resource Sheet
+Add accessibility tags in Task Sheet
+Add accessibility tags in Task Board Sheet
+Add accessibility tags in Sprint Planning Sheet
+Add accessibility tags in Current Sprint Sheet
+Add accessibility tags in Backlog Sheet
+Add accessibility tags in Network Diagram view
+Add accessibility tags in Descriptive Network Diagram view
+Notes field on P4W allowing users to enter more characters than the configured maximum limit
+Value Initialization for variable docexStructNode 
+change alternative text of diagram tag in accessibility feature
+Watson - null_class_ptr_read_c0000005_winproj.exe!ttable::islockedfield
+Watson - null_class_ptr_read_c0000005_winproj.exe!tbkndcontainer::eval
+[CloudProj] New query param to receive local custom columns for P1 users (includeLocalCustomFields)
+[CloudProj] Copy Paste Task to exclude ETCC for P1 users
+[CloudProj] Copy Project to exclude ETCC
+[CloudProj] Support for cdsLogicalName
+[CloudProj] Add ETCC columns created to existing viewports with includeAllCustomFields only
+[CloudProj] New query param to filter enterprise fields in /project/tasks/fields API (/project/tasks/fields$filter=enterprise))
+For long duration Task missing tag for timescale in GanttChart View PDF
+creating default enterprise licensed user in scenariotests
+[Failover]: Mismatch property links [driver]
+[Accessibility] : add logs for failed PDF tags in winproj
+[Devmain] Issue Severity: 2 HOTFIX: Winproj: Project 2019: Trusted Locations - backport
+[Port: Devmain->devsb21] Issue Severity: 2 HOTFIX: Winproj: Project 2019: Trusted Locations - backport
+tag_4wb0a top impacting ACE score for Microsoft Project in fork 2304-Apr affecting 3.67% session>
+Add a state variable when pause/stop called, so that we don't start again during deployment
+Make BulkSync - Compliance flow dark mode ready
+graduate changegate  ReturnZeroPlansIfDarkModeEnabled
+graduate changegate  AddBulkSyncPauseState
+Project and Planner have date disparity causing dates to shift between systems
+Cleanup Feature Rollout: "AccessibilityTagsInGanttPdf"
+Cleanup Feature Rollout: "AccessibilityTagsInTaskSheetPdf"
+graduate changegate IgnoreDriverLinkProperty
+[PSS] Session capabilities and feature setting
+[PSS] Save service to support lead lag
+[PSS] export to excel
+Add a new property for MPPSource and set its value to enterprise when saving the PJO mpp file in project desktop
+Expose the MppSource property in cloudproj and add telemetry in the import to indicate whether the mpp is enterprise or non-enterprise
+Create a widget in the cloudproj and winproj dashboard to track the mppSource
+Set the MPP Source in the API to get telemetry for direct MPP download (if we expose an API in PJO to download MPP)
+Update Cloudproj version 
+graduate changegate  CorrectDateDisparityBetweenProjectAndPlanner
+[CloudProj] Rollback Requirement - If the feature flight is off, ETCC data should not be sent back in task/fields data
+Convert the task start and finish dates to Planner10AmDateTimeHeuristics before sending the response for the Planner Edit.
+TimezoneOffset is null
+[Component Governance Alert] [PS2016] - CVE-2021-21252 in jQuery.Validation 1.11.1. Severity: high
+graduate changegate TruncateNotesField
+[CloudProj] Error ids for errors added for handling enterprise custom columns
+Remove ChangeGate: microsoft.office.project.changegate.vso7898588
+[CloudProj] Increase cds logical name length limit to 100 chars
+[CloudProj] support addition of upto 10 ETCC and upto 10 local custom columns
+[CloudProj] add column display name to the errors being thrown from CP
+PLACEHOLDER: FY24Q2 Resourcing - CloudProj Bug Buffer - Villash
+PLACEHOLDER: FY24Q2 Resourcing: PJO Shield - Villash
+Placeholder - Q2 Resourcing - Villash
+[CloudProj] Enhance Telemetry to help identifying perf issues in recalc
+[LeapYear]: CodeQL Violation in projectserver: cs/leap-year/365-array
+[LeapYear]: CodeQL Violation in projectserver: cs/leap-year/unsafe-date-construction-from-two-elements
+graduate changegate FixUtcTimeParse
+Add Diagnostic Commands for Consistency Checker
+Implementation for consistency checker
+graduate ConsistencyCheckerFlight
+Fetch all details from plan including them in expand
+graduate UpdatePlanQuery changegate
+PLACEHOLDER : CP initialize and recalc improvement
+FY24Q3 - CloudProj BugBuffer
+Dashboard with EUDB compliant queries
+[S500] OnPrem: The TaskLinks REST endpoint does not return either the PredecessorsTaskId or SuccessorsTaskId properties
+[CloudProj] Identify markers that will add helping logs in telemetry for recalc
+[CloudProj] Add helping logs in telemetry for recalc (implementation)
+[CloudProj] Identify root cause of DST algorithm perf issues and identify and POC for possible fixes
+Graduate feature gate [FeatureGate_AddRecalcTelemetry]

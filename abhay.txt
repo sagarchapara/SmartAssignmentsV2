@@ -1,0 +1,32 @@
+Accessing out-of-bounds columns via UIA causes crash under PageHeap
+CloudProj Rollout Plan & Flighting Strategy
+[Investigation] Reduce memory for task loads
+[EPM] Investigate: Large projects - Task Limit beyond 1000, Links/ Resources limits [Q2 outcome: Investigation closure]
+FY23: EngSat: Fix Visual Studio issues for CloudProj Scenario Tests
+[Default User] Assignments are being dropped in Replication
+[Refresh Team] Assignments are being dropped in Replication
+Monitors for BulkSync
+[CloudProj] Optimize replay logs for batch requests to reduce size
+Cloudproj crash in PROD (cloudProj!CreateOutlineCode::DoCreate)
+ATM Attribution is missing for Project entity.
+ATM Attribution is missing for Assignments entity.
+Complete rollout of flight as per cadence - CloudProjViewportSupportSelectAlways
+[CloudProj] Incorrect telemetry: "In CopyProject UserAadId is empty" and "In ImportProject UserAadId is empty" are logged even if they are present
+Queries for $selectAlways and $selectOnDelete are not under individual flight
+Exploitable: DEP Violation in 0x7ffc`3fbf8c6e
+[Scenario 6] Support Choice data type
+[Scenario 5] Enforce License(P3/P5) restriction
+Correct date disparity between Project and Planner
+[CloudProj] noAttribution is logged even for delta changes that are sent back to CDS causing logging polution
+[Default User] Assignments are being dropped in DataConverter
+Project which have 20 plus combined assignments on a task (aad + non-aad) cannot be reopened
+ [PROD] Warning - Invalid URI: The hostname could not be parsed.
+[CloudProj/PSS] Support for large MPP > 5 MB [Q2 outcome: PPE]
+Infra Setup for creating large projects
+Cleanup Stale Rollout: "EnableIFBETelemetry"
+Placeholder - Limits investigation closure
+Limits: Investigate and Create PSS work items for first milestone
+Investigate impact of scaling limits on ATM feature
+[Infra] Make SetupTestProject.py script for 5000 tasks
+support for test project creation with 100k tasks
+ChinaCert: GB18030-2022: Project Online: PWA Settings: Connected SharePoint Sites[Function]: Can't Create Site
