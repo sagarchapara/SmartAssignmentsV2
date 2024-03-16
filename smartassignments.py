@@ -16,7 +16,7 @@ def GetEmbeddings(client, data):
 
 def GenerateEmbedding(client, data):
     embedding = client.embeddings.create(
-        model="text-embedding-ada-002",
+        model="text-embedding-3-large",
         input= data
     )
 
@@ -29,12 +29,12 @@ def GetSimilarity(embeddings1, embeddings2):
     similarity = cosine_similarity(embeddings1, embeddings2)
     return similarity
 
-def GetPromptResponse(client, messages):
+def GetPromptResponse(client, message):
     response = client.chat.completions.create(
         model="gpt-4",
         messages=[
-            {"role": "system", "content": "Assistant is a large language model trained by OpenAI."},
-            {"role": "user", "content": "Who were the founders of Microsoft?"}
+            {"role": "system", "content": "You are a smart resourcing agent who is an expert at figuring out the right resources for the tasks basis their skills. These skills are assessed based on the previous project data. You need to output your recommendation of the resource for given task data"},
+            {"role": "user", "content": message}
         ]
     )
     return response.choices[0].message.content
