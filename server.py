@@ -18,8 +18,11 @@ def smart_assignments():
     task = str(data["taskData"])
 
     # Get embeddings for resources
-    collection_data = Get(collection, resources)
+    collection_data = Get(chromaCollection, resources)
     embeddings = collection_data["embeddings"]
+    metadata = collection_data["metadatas"]
+    documents = collection_data["documents"]
+    ids = collection_data["ids"]
 
     # Compare similarity between embeddings and task
     # Return the similarity score
@@ -27,7 +30,18 @@ def smart_assignments():
 
     similarity_score = GetSimilarity(embeddings, taskEmbeddings)
 
-    return jsonify(np.array(similarity_score).tolist())
+    # for each resource, get the metadata and document and return the similarity score
+    data = []
+    for i in range(len(metadata)):
+        val = {
+            "resourceAadId": ids[i],
+            "score": similarity_score[i][0],
+            "resourceName": str(metadata[i]),
+            "summary": documents[i],
+        }
+        data.append(val)
+
+    return jsonify(data)
 
 @app.route("/prompt", methods=["POST"])
 def get_smart_assignment_prompt_response():
@@ -40,6 +54,6 @@ def get_smart_assignment_prompt_response():
     
 if __name__ == "__main__":
     openAIClient = GetOpenAiClient()
-    chromaCollection = CreateCollection("user-store")
+    chromaCollection = CreateCollection("smartassignments")
     app.run()
 

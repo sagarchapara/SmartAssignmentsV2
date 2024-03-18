@@ -14,6 +14,17 @@ def GetEmbeddings(client, data):
     # data = clean_text(data)   
     return GenerateEmbedding(client, data)
 
+def GetSummary(client, data):
+    response = client.chat.completions.create(
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": "You are a smart resourcing agent who is an expert at summarizing the skills and expertise of the resources based on the role his current role and the tasks he worked. You need to output a summary of the resource basis their skills and expertise, make sure summary is short and crisp"},
+            {"role": "user", "content": data}
+        ]
+    )
+    return response.choices[0].message.content
+
+
 def GenerateEmbedding(client, data):
     embedding = client.embeddings.create(
         model="text-embedding-3-large",

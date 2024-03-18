@@ -3,8 +3,6 @@ import chromadb
 # setup Chroma in-memory, for easy prototyping. Can add persistence easily!
 client = chromadb.Client()
 
-collection = client.create_collection("user-store")
-
 def CreateCollection(collectionName):
     persist_directory = "assignment_db"
 
@@ -15,15 +13,16 @@ def CreateCollection(collectionName):
     return collection
 
 
-def Add(collection, user_id,  embedding, metadata=None):
+def Add(collection, user_id,  embedding, metadata=None, document = None):
     collection.add(
         ids = [user_id],
         embeddings=[embedding],
-        metadatas=[metadata]
+        metadatas=[metadata],
+        documents=[document]
     )
 
 def Get(collection, userIds):
     return collection.get(
         ids=userIds,
-        include = ["embeddings", "metadatas"]
+        include=["embeddings", "metadatas", "documents"]
     )

@@ -1,0 +1,382 @@
+{
+  "50cb9978-0c9f-4a06-9cca-3a6057c9ed2d": {
+    "Name": "Mona",
+    "Role": "Project Manager",
+    "Role Details": "TODO: Generate with GPT",
+    "Tasks": [
+      "Finalize plans and develop estimate with owner, architect",
+      "Sign contract and notice to proceed",
+      "Secure foundation permit",
+      "Secure framing permit",
+      "Receive notice to proceed and sign contract",
+      "Submit bond and insurance documents",
+      "Prepare and submit schedule of values",
+      "Issue final request for payment",
+      "Perform final walk-through inspection",
+      "Complete punch list items"
+    ]
+  },
+  "fdc063b0-4777-4697-9682-46cf7069bb16": {
+    "Name": "Raj",
+    "Role": "Electric Contractor + Electric Contractor Management",
+    "Role Details": "",
+    "Tasks": [
+      "Install temporary power service",
+      "Install underground utilities",
+      "Rough-in electrical",
+      "Rough-in communication - phone, cable, computer, alarm",
+      "Submit shop drawings and order long lead items - electric",
+      "Install temporary power",
+      "Rough-in electric and plumbing in elevator",
+      "Install rebar and in-floor utilities (including mechanical, electrical, plumbing)",
+      "Install rebar and in-floor utilities (including mechanical, electrical, plumbing)",
+      "Install rebar and in-floor utilities (including mechanical, electrical, plumbing)",
+      "Install electrical underground",
+      "Install rebar and in-floor utilities",
+      "Install conduit at ceiling plenum space",
+      "Rough-in electrical in masonry walls",
+      "Rough-in electrical in drywall walls",
+      "Pull wire in conduit and set area transformers",
+      "Install and terminate electrical devices",
+      "Make electrical terminations for HVAC equipment",
+      "Install light fixtures - test and clean",
+      "Complete 1st floor circuits to service panel",
+      "Complete 2nd floor circuits to service panel",
+      "Conduct finish electrical inspection",
+      "Complete communications wiring - phone, cable, computer, alarm",
+      "Install appliances"
+    ]
+  },
+  "364beba2-95b4-4120-a447-fa15d7ad7421": {
+    "Name": "Theo",
+    "Role": "Site Contractor",
+    "Tasks": [
+      "Clear and grub lot",
+      "Install underground utilities",
+      "Excavate for foundations",
+      "Backfill foundation",
+      "Prepare site - lay down yard and temporary fencing",
+      "Clear and grub site",
+      "Stone site access and temporary parking area",
+      "Rough grade site (cut and fill)",
+      "Install storm drainage",
+      "Perform final site grading",
+      "Excavate foundations",
+      "Excavate elevator pit"
+    ]
+  },
+  "2898ebeb-d41e-4ce8-a287-0b2e6841dda4": {
+    "Name": "Nadia",
+    "Role": "Plumbing Contractor",
+    "Tasks": [
+      "Install underground utilities",
+      "Rough-in plumbing",
+      "Submit shop drawings and order long lead items - plumbing",
+      "Install temporary water service",
+      "Install exterior fire line and building fire riser",
+      "Rough-in electric and plumbing in elevator",
+      "Install rebar and in-floor utilities (including mechanical, electrical, plumbing)",
+      "Install rebar and in-floor utilities (including mechanical, electrical, plumbing)",
+      "Install rebar and in-floor utilities (including mechanical, electrical, plumbing)",
+      "Install plumbing underground",
+      "Install rebar and in-floor utilities",
+      "Rough-in plumbing at toilets and masonry walls",
+      "Rough-in plumbing in drywall walls",
+      "Tie-in fire line riser and set valves",
+      "Set plumbing fixtures and trim",
+      "Flush, test, and clean piping and fixtures",
+      "Complete punch list items from all inspections",
+      "Complete 1st floor - kitchen plumbing",
+      "Complete 1st floor - master bath and guest plumbing",
+      "Complete 2nd floor - hall bath and private bath plumbing"
+    ]
+  },
+  "b15611ab-ab92-40f2-b159-902242e71cd4": {
+    "Name": "Zoe",
+    "Role": "Concrete Contractor",
+    "Tasks": [
+      "Form basement walls",
+      "Place concrete for foundations & basement walls",
+      "Cure basement walls for 7 days",
+      "Strip basement wall forms",
+      "Waterproof/insulate basement walls",
+      "Place concrete for basement floor",
+      "Pour column piers and foundations",
+      "Pour concrete elevator walls",
+      "Prepare and pour concrete floor in elevator pit",
+      "Pour 2nd floor slab",
+      "Pour 3rd floor slab",
+      "Pour roof slab",
+      "Pour 1st floor slab",
+      "Pour concrete driveway and sidewalks"
+    ]
+  },
+  "d7af6123-d928-415c-a226-73b50b56e135": {
+    "Name": "Omar",
+    "Role": "Inspector and Survey",
+    "Tasks": [
+      "Perform foundation inspection",
+      "Conduct framing inspection",
+      "Conduct rough-in plumbing inspection",
+      "Conduct rough-in electrical inspection",
+      "Conduct rough-in HVAC inspection",
+      "Conduct insulation inspection",
+      "Set line and grade benchmarks",
+      "Erect building batter boards and layout building",
+      "Conduct finish plumbing inspection",
+      "Complete final inspection for certificate of occupancy"
+    ]
+  },
+  "52f52928-267b-4b61-af43-df003d38e377": {
+    "Name": "Priya",
+    "Role": "Framing Contractor",
+    "Tasks": [
+      "Install 1st floor joists",
+      "Lay 1st floor decking",
+      "Frame 1st floor walls",
+      "Frame 1st floor corners",
+      "Install 2nd floor joists",
+      "Frame 2nd floor decking",
+      "Frame 2nd floor walls",
+      "Frame 2nd floor corners",
+      "Complete roof framing",
+      "Install roof decking",
+      "Complete exterior siding",
+      "Form column piers and spread foundations",
+      "Form elevator pit walls",
+      "Set reinforcing and anchor bolts",
+      "Form 2nd floor including all floor openings",
+      "Form 3rd floor including all floor openings",
+      "Form roof slab including all floor openings",
+      "Form 1st floor"
+    ]
+  },
+  "ac035c9f-3ca9-428e-bb6f-4018e6466396": {
+    "Name": "Beatriz",
+    "Role": "Roofing Contractor",
+    "Tasks": [
+      "Install felt, flashing and shingles",
+      "Submit shop drawings and order long lead items - roofing",
+      "Install roof drains",
+      "Install flashing at parapet walls",
+      "Pour lightweight concrete roof fill",
+      "Install seamless roofing material",
+      "Spread stone ballast on seamless roof"
+    ]
+  },
+  "ce1301c3-4e2a-45bd-b2e7-8b376f0c1567": {
+    "Name": "Giselle",
+    "Role": "Masonry Contractor",
+    "Tasks": [
+      "Complete exterior brick",
+      "Lay masonry at core, mechanical, and toilets",
+      "Install exterior masonry work",
+      "Clean masonry"
+    ]
+  },
+  "82762dfd-a1c2-444b-899b-0ad658f40df2": {
+    "Name": "Maria",
+    "Role": "HVAC Contractor",
+    "Tasks": [
+      "Rough-in HVAC",
+      "Submit shop drawings and order long lead items - HVAC",
+      "Set rooftop equipment",
+      "Install duct in ceiling plenum space",
+      "Set equipment in mechanical room",
+      "Rough-in mechanical in masonry walls",
+      "Rough-in mechanical in drywall walls",
+      "Install duct in building chase",
+      "Set HVAC trim and test and balance system",
+      "Complete punch list items from all inspections",
+      "Complete 1st floor - zone 1 HVAC",
+      "Complete 2nd floor - zone 2 HVAC",
+      "Conduct HVAC inspection"
+    ]
+  },
+  "931d0b40-d63c-47e0-b1fa-3c55d4e40ec9": {
+    "Name": "Alex",
+    "Role": "Insulation Contractor",
+    "Tasks": [
+      "Place wall insulation - 1st floor",
+      "Place wall insulation - 2nd floor",
+      "Place ceiling insulation - 2nd floor"
+    ]
+  },
+  "97be9318-27c9-4e85-8db9-6026a0216d4f": {
+    "Name": "Declan",
+    "Role": "DryWall Contractor",
+    "Tasks": [
+      "Install drywall - 1st floor walls",
+      "Install drywall - 1st floor overhead",
+      "Install drywall 2nd floor walls",
+      "Install drywall 2nd floor overhead",
+      "Tape and float 1st floor drywall",
+      "Tape and float 2nd floor drywall",
+      "Install exterior sheathing and metal studs",
+      "Install interior stud walls and drywall",
+      "Install ceiling grid",
+      "Install ceiling tile",
+      "Complete punch list items from all inspections"
+    ]
+  },
+  "af77c133-441b-4629-a2dd-ff0a88cd249a": {
+    "Name": "Matteo",
+    "Role": "Painting and Paving Contractor",
+    "Tasks": [
+      "Paint walls and woodwork",
+      "Hang wallpaper",
+      "Pave, curb, and stripe parking lot",
+      "Texture all except entry and kitchen - 1st floor",
+      "Paint all except entry and kitchen - 1st floor",
+      "Hang wallpaper entry and kitchen - 1st floor",
+      "Texture all - 2nd floor",
+      "Paint all - 2nd floor",
+      "Paint exterior siding & trim work"
+    ]
+  },
+  "a57d54a9-e24b-4b7a-86c3-77ece8f3a1df": {
+    "Name": "Anika",
+    "Role": "Finish Carpenter",
+    "Tasks": [
+      "Install 1st floor - kitchen cabinets",
+      "Install 1st floor - master bath and guest cabinets",
+      "Install 2nd floor - hall bath and private bath cabinets",
+      "Install chair rails, crown moldings, trim",
+      "Install interior doors and hardware",
+      "Install millwork and wood trim",
+      "Install hardware and accessories"
+    ]
+  },
+  "17504885-216e-4b2b-953d-30a0adc157d6": {
+    "Name": "Finley",
+    "Role": "Tile Contractor",
+    "Tasks": [
+      "Install tile in toilet rooms",
+      "Clean toilet room tile",
+      "Install hard tile flooring in common areas",
+      "Clean hard tile floors",
+      "Tile entry, kitchen and baths"
+    ]
+  },
+  "2932cb51-1339-4bcf-a6e7-c0a907944c59": {
+    "Name": "Hassan",
+    "Role": "Window Contractor",
+    "Tasks": [
+      "Install window wall aluminum and glass",
+      "Install store front doors and hardware"
+    ]
+  },
+  "8660292f-bf0b-43cc-9c6d-28a3cbb5396f": {
+    "Name": "Jules",
+    "Role": "Carpet Contractor",
+    "Tasks": ["Install building carpet", "Carpet 1st floor", "Carpet 2nd floor"]
+  },
+  "d2a33808-2626-4f5d-be13-b973e7e3262d": {
+    "Name": "Sienna",
+    "Role": "Landscape and Fencing Contractor",
+    "Tasks": [
+      "Complete interior and exterior sod and plantings",
+      "Install backyard fence",
+      "Sod and complete plantings - front yard",
+      "Sod and complete plantings - backyard"
+    ]
+  },
+  "dfdeca78-9997-43a6-a14f-7773b8555154": {
+    "Name": "Kaya",
+    "Role": "Steel Erection Contractor",
+    "Tasks": [
+      "Submit shop drawings and order long lead items - steel",
+      "Detail, fabricate and deliver steel",
+      "Erect steel columns, beams and joist - 1st and 2nd floors",
+      "Erect steel columns, beams and joist - 3rd floor and roof",
+      "Install miscellaneous iron and bracing - 1st and 2nd floors",
+      "Install miscellaneous iron and bracing - 3rd floor and roof",
+      "Install stairs and miscellaneous iron railing",
+      "Touch-up paint on steel"
+    ]
+  },
+  "6153d2be-d462-4fb0-b02a-7e066ab9ead0": {
+    "Name": "Liam",
+    "Role": "Elevator Contractor",
+    "Tasks": [
+      "Submit shop drawings and order long lead items - elevator",
+      "Install pneumatic tube in elevator pit",
+      "Set elevator equipment in shafts",
+      "Set equipment in mechanical room",
+      "Test and align doors and equipment",
+      "Complete elevator inspection and certification"
+    ]
+  },
+  "585d821f-913c-4ed2-9a11-83c4ed4744d7": {
+    "Name": "Lucas",
+    "Role": "Labor Crew",
+    "Tasks": [
+      "Set up site office",
+      "Prepare site - lay down yard and temporary fencing",
+      "Cure elevator wall concrete",
+      "Cure piers and foundations",
+      "Strip wall forms",
+      "Strip column piers and foundation forms",
+      "Form 2nd floor including all floor openings",
+      "Install rebar and in-floor utilities (including mechanical, electrical, plumbing)",
+      "Cure 2nd floor slab",
+      "Strip forms from 2nd floor slab",
+      "Form 3rd floor including all floor openings",
+      "Install rebar and in-floor utilities (including mechanical, electrical, plumbing)",
+      "Cure 3rd floor slab",
+      "Strip forms from 3rd floor slab",
+      "Form roof slab including all floor openings",
+      "Install rebar and in-floor utilities (including mechanical, electrical, plumbing)",
+      "Cure roof slab",
+      "Strip forms from roof slab",
+      "Install rebar and in-floor utilities",
+      "Cure 1st floor slab",
+      "Strip forms from 1st floor slab",
+      "Remove debris from building and do final clean-up",
+      "Complete punch list items from all inspections"
+    ]
+  },
+  "a4b0395b-b856-4f3d-a9e0-801d649f7afe": {
+    "Name": "Elena",
+    "Role": "Superintendent",
+    "Tasks": [
+      "Set up site office",
+      "Substantial completion date",
+      "Perform architect's inspection",
+      "Perform local building agency inspection",
+      "Perform Fire Marshal's inspection",
+      "Complete punch list items from all inspections"
+    ]
+  },
+  "ac6fee7c-cdb7-4fd5-b581-815db663a969": {
+    "Name": "Babak",
+    "Role": "Accounting",
+    "Tasks": ["Issue final request for payment"]
+  },
+  "1afb7543-453d-4d2b-ad61-969d9e101847": {
+    "Name": "Robin",
+    "Role": "Scheduler",
+    "Tasks": ["Prepare and submit project schedule"]
+  },
+  "b134057c-1095-4cc8-801d-cfe963a75b08": {
+    "Name": "Issac",
+    "Role": "Procurement",
+    "Tasks": ["Obtain building permits", "Submit preliminary shop drawings"]
+  },
+  "7830f815-a9ba-43f2-9e1e-f69cad4b57e1": {
+    "Name": "Sara",
+    "Role": "Project Management",
+    "Tasks": [
+      "Submit bond and insurance documents",
+      "Prepare and submit project schedule",
+      "Obtain building permits",
+      "Submit preliminary shop drawings",
+      "Perform architect's inspection",
+      "Perform local building agency inspection",
+      "Perform Fire Marshal's inspection",
+      "Obtain certificate of occupancy",
+      "Issue final completion documents including warranties",
+      "Issue final request for payment"
+    ]
+  }
+}
