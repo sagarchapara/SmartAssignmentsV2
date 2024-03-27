@@ -1,0 +1,7 @@
+openai
+pandas
+numpy
+nltk
+gensim
+scikit-learn
+bs4
