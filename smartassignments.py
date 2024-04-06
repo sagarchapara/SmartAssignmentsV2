@@ -53,6 +53,6 @@ def GetPromptResponse(client, message):
 
 def GetOpenAiClient():
     return AzureOpenAI(
-        api_key= "28f146892bb54fd3a8ed90c8f7080f0a",
+        api_key= "<KEY>",
         api_version="2023-12-01-preview",
         azure_endpoint= "https://assignments.openai.azure.com/")
